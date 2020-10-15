@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-15T18:51:57.953Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="x7jQftgTQw4M0OE3WcUe" version="13.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-15T18:56:04.415Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="71s1oVAzt75VTIUa-pQ3" version="13.8.0" type="github">
   <diagram id="-H18s_F7PkQG1bvrdtzM" name="Page-1">
     <mxGraphModel dx="1580" dy="820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -187,7 +187,7 @@
             <mxPoint x="220.9619407771347" y="401.21320343560046" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VaWxIrWSogGsUbdKop_V-24" value="Quản lý yêu cầu" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="VaWxIrWSogGsUbdKop_V-24" value="Trạng thái&amp;nbsp; project" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="400" y="725" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="VaWxIrWSogGsUbdKop_V-26" value="Đăng file dạng nén" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
